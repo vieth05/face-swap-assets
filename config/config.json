@@ -1,15 +1,630 @@
 {
   "face2face": {
-    "categories": []
-  },
-  "ai_art": {
-    "categories": []
+    "categories": [
+      {
+        "id": "ai_bollywood",
+        "name": "Ai Bollywood",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "ai_headshot",
+        "name": "Ai Headshot",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "ai_pirates",
+        "name": "Ai Pirates",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "antiques",
+        "name": "Antiques",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "athletes_of_olympus",
+        "name": "Athletes Of Olympus",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "back_to_school",
+        "name": "Back To School",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "boho_portrait",
+        "name": "Boho Portrait",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "bridal_salon",
+        "name": "Bridal Salon",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "business",
+        "name": "Business",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "carnival",
+        "name": "Carnival",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "cartoon_style",
+        "name": "Cartoon Style",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "casual_aesthetic",
+        "name": "Casual Aesthetic",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "celebrity_look_alike",
+        "name": "Celebrity Look Alike",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "cinema",
+        "name": "Cinema",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "cinematic_storytelling",
+        "name": "Cinematic Storytelling",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "climbing",
+        "name": "Climbing",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "family_photo",
+        "name": "Family Photo",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "fighter",
+        "name": "Fighter",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "flight_attendant",
+        "name": "Flight Attendant",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "flirty_avatar",
+        "name": "Flirty Avatar",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "friends",
+        "name": "Friends",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "gladiator",
+        "name": "Gladiator",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "hair_salon",
+        "name": "Hair Salon",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "halloween_fashion",
+        "name": "Halloween Fashion",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "hiphop",
+        "name": "Hiphop",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "hot_character",
+        "name": "Hot Character",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "in_the_air",
+        "name": "In The Air",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "jersey",
+        "name": "Jersey",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "love_story",
+        "name": "Love Story",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "magic_gym",
+        "name": "Magic Gym",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "old_money",
+        "name": "Old Money",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "portrait_styles",
+        "name": "Portrait Styles",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "regency_glamour",
+        "name": "Regency Glamour",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "selfie",
+        "name": "Selfie",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "snow_photoshoot",
+        "name": "Snow Photoshoot",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "speed_auto",
+        "name": "Speed Auto",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "speed_moto",
+        "name": "Speed Moto",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "sport",
+        "name": "Sport",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "spring_ao_dai",
+        "name": "Spring Ao Dai",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "squid",
+        "name": "Squid",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "street",
+        "name": "Street",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "summer_vibe",
+        "name": "Summer Vibe",
+        "type": "image",
+        "items": [
+          {
+            "id": "1",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/image/summer_vibe/1.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/image/summer_vibe/1.png"
+          },
+          {
+            "id": "2",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/image/summer_vibe/2.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/image/summer_vibe/2.png"
+          }
+        ]
+      },
+      {
+        "id": "traditional",
+        "name": "Traditional",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "viral_memes",
+        "name": "Viral Memes",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "wedding",
+        "name": "Wedding",
+        "type": "image",
+        "items": []
+      },
+      {
+        "id": "anime_characters",
+        "name": "Anime Characters",
+        "type": "video",
+        "thumbnailType": "gif",
+        "items": []
+      },
+      {
+        "id": "cosplay",
+        "name": "Cosplay",
+        "type": "video",
+        "thumbnailType": "gif",
+        "items": [
+          {
+            "id": "1",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/video/cosplay/1.gif",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/video/cosplay/1.mp4"
+          }
+        ]
+      },
+      {
+        "id": "gym_motivation",
+        "name": "Gym Motivation",
+        "type": "video",
+        "thumbnailType": "gif",
+        "items": []
+      },
+      {
+        "id": "halloween",
+        "name": "Halloween",
+        "type": "video",
+        "thumbnailType": "gif",
+        "items": []
+      },
+      {
+        "id": "happy_birthday",
+        "name": "Happy Birthday",
+        "type": "video",
+        "thumbnailType": "gif",
+        "items": []
+      },
+      {
+        "id": "like_a_princess",
+        "name": "Like A Princess",
+        "type": "video",
+        "thumbnailType": "gif",
+        "items": []
+      },
+      {
+        "id": "makephotosing",
+        "name": "Make Photo Sing",
+        "type": "video",
+        "thumbnailType": "video",
+        "items": [
+          {
+            "id": "1",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/video/makephotosing/1.mp4",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/video/makephotosing/1.mp4"
+          }
+        ]
+      },
+      {
+        "id": "my_life_journey",
+        "name": "My Life Journey",
+        "type": "video",
+        "thumbnailType": "gif",
+        "items": []
+      },
+      {
+        "id": "royalty",
+        "name": "Royalty",
+        "type": "video",
+        "thumbnailType": "gif",
+        "items": []
+      },
+      {
+        "id": "tiktok_dance",
+        "name": "Tiktok Dance",
+        "type": "video",
+        "thumbnailType": "gif",
+        "items": []
+      },
+      {
+        "id": "xmas",
+        "name": "Xmas",
+        "type": "video",
+        "thumbnailType": "gif",
+        "items": []
+      }
+    ]
   },
   "smile": {
-    "items": []
+    "items": [
+      {
+        "id": "1",
+        "name": "",
+        "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/smile/smile1.png",
+        "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/smile/smile1.png"
+      },
+      {
+        "id": "2",
+        "name": "",
+        "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/smile/smile2.png",
+        "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/smile/smile2.png"
+      },
+      {
+        "id": "3",
+        "name": "",
+        "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/smile/smile3.png",
+        "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/smile/smile3.png"
+      },
+      {
+        "id": "4",
+        "name": "",
+        "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/smile/smile4.png",
+        "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/smile/smile4.png"
+      }
+    ]
   },
   "hair": {
-    "categories": []
+    "categories": [
+      {
+        "id": "hair_style",
+        "name": "Hair Style",
+        "items": [
+          {
+            "id": "bob",
+            "name": "Bob",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/bob.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/bob.png"
+          },
+          {
+            "id": "buzzcut_man",
+            "name": "Buzzcut Man",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/buzzcut_man.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/buzzcut_man.png"
+          },
+          {
+            "id": "curly",
+            "name": "Curly",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/curly.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/curly.png"
+          },
+          {
+            "id": "Fauxhalk_Men",
+            "name": "Fauxhalk Men",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/Fauxhalk_Men.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/Fauxhalk_Men.png"
+          },
+          {
+            "id": "layer",
+            "name": "Layer",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/layer.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/layer.png"
+          },
+          {
+            "id": "middlepart_men",
+            "name": "Middlepart Men",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/middlepart_men.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/middlepart_men.png"
+          },
+          {
+            "id": "mulet_men",
+            "name": "Mulet Men",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/mulet_men.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/mulet_men.png"
+          },
+          {
+            "id": "pixie",
+            "name": "Pixie",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/pixie.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/pixie.png"
+          },
+          {
+            "id": "textured_men",
+            "name": "Textured Men",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/textured_men.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/textured_men.png"
+          },
+          {
+            "id": "wolfcut",
+            "name": "Wolfcut",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/wolfcut.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_style/wolfcut.png"
+          }
+        ]
+      },
+      {
+        "id": "hair_color",
+        "name": "Hair Color",
+        "items": [
+          {
+            "id": "color_cyanblue",
+            "name": "Cyanblue",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_cyanblue.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_cyanblue.png"
+          },
+          {
+            "id": "color_darklime",
+            "name": "Darklime",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_darklime.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_darklime.png"
+          },
+          {
+            "id": "color_firebrick",
+            "name": "Firebrick",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_firebrick.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_firebrick.png"
+          },
+          {
+            "id": "color_magenta",
+            "name": "Magenta",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_magenta.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_magenta.png"
+          },
+          {
+            "id": "color_pastelred",
+            "name": "Pastelred",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_pastelred.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_pastelred.png"
+          },
+          {
+            "id": "color_platinum",
+            "name": "Platinum",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_platinum.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_platinum.png"
+          },
+          {
+            "id": "color_seagreen",
+            "name": "Seagreen",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_seagreen.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/hair/hair_color/color_seagreen.png"
+          }
+        ]
+      }
+    ]
+  },
+  "ai_art": {
+    "categories": [
+      {
+        "id": "anime",
+        "name": "Anime",
+        "items": []
+      },
+      {
+        "id": "art",
+        "name": "Art",
+        "items": []
+      },
+      {
+        "id": "christmas",
+        "name": "Christmas",
+        "items": [
+          {
+            "id": "CH_01",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/christmas/CH_01.jpg",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/christmas/CH_01.jpg"
+          },
+          {
+            "id": "CH_02",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/christmas/CH_02.jpg",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/christmas/CH_02.jpg"
+          },
+          {
+            "id": "CH_03",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/christmas/CH_03.jpg",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/christmas/CH_03.jpg"
+          }
+        ]
+      },
+      {
+        "id": "cyberpunk",
+        "name": "Cyberpunk",
+        "items": []
+      },
+      {
+        "id": "deadpooz",
+        "name": "Deadpooz",
+        "items": []
+      },
+      {
+        "id": "fantasy",
+        "name": "Fantasy",
+        "items": []
+      },
+      {
+        "id": "lunar_new_year",
+        "name": "Lunar New Year",
+        "items": [
+          {
+            "id": "LU_01",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/lunar_new_year/LU_01.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/lunar_new_year/LU_01.png"
+          },
+          {
+            "id": "LU_02",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/lunar_new_year/LU_02.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/lunar_new_year/LU_02.png"
+          },
+          {
+            "id": "LU_03",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/lunar_new_year/LU_03.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/lunar_new_year/LU_03.png"
+          },
+          {
+            "id": "LU_044",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/lunar_new_year/LU_044.png",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/ai_art/lunar_new_year/LU_044.png"
+          }
+        ]
+      },
+      {
+        "id": "neon",
+        "name": "Neon",
+        "items": []
+      },
+      {
+        "id": "painting",
+        "name": "Painting",
+        "items": []
+      },
+      {
+        "id": "realistic",
+        "name": "Realistic",
+        "items": []
+      },
+      {
+        "id": "superhero",
+        "name": "Superhero",
+        "items": []
+      }
+    ]
   },
   "eyeglasses": {
     "items": []
