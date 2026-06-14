@@ -627,6 +627,13 @@
     ]
   },
   "eyeglasses": {
-    "items": []
+    "items": [
+      {
+        "id": "eyeglasses1",
+        "name": "",
+        "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/eyeglasses/eyeglasses1.png",
+        "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/eyeglasses/eyeglasses1.png"
+      }
+    ]
   }
 }
