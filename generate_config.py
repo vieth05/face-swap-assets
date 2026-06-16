@@ -83,11 +83,15 @@ if video_root.exists():
             )
 
             for video in videos:
+
+                face_image = category / f"{video.stem}.png"
+
                 items.append({
                     "id": video.stem,
                     "name": "",
                     "thumbnail": get_url(video),
-                    "url": get_url(video)
+                    "url": get_url(video),
+                    "face": get_url(face_image) if face_image.exists() else ""
                 })
 
             config["face2face"]["categories"].append({
@@ -103,6 +107,7 @@ if video_root.exists():
 
             gifs = {f.stem: f for f in category.glob("*.gif")}
             videos = {f.stem: f for f in category.glob("*.mp4")}
+            faces = {f.stem: f for f in category.glob("*.png")}
 
             ids = sorted(
                 set(gifs.keys()) & set(videos.keys()),
@@ -114,7 +119,8 @@ if video_root.exists():
                     "id": item_id,
                     "name": "",
                     "thumbnail": get_url(gifs[item_id]),
-                    "url": get_url(videos[item_id])
+                    "url": get_url(videos[item_id]),
+                    "face": get_url(faces[item_id]) if item_id in faces else ""
                 })
 
             config["face2face"]["categories"].append({
@@ -124,8 +130,6 @@ if video_root.exists():
                 "thumbnailType": "gif",
                 "items": items
             })
-
-
 # =========================
 # SMILE
 # =========================
