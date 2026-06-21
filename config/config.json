@@ -167,7 +167,20 @@
         "id": "jersey",
         "name": "Jersey",
         "type": "image",
-        "items": []
+        "items": [
+          {
+            "id": "1",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/image/jersey/1.jpg",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/image/jersey/1.jpg"
+          },
+          {
+            "id": "2",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/image/jersey/2.jpg",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/image/jersey/2.jpg"
+          }
+        ]
       },
       {
         "id": "love_story",
