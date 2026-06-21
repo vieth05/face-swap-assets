@@ -303,6 +303,13 @@
             "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/video/cosplay/1.gif",
             "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/video/cosplay/1.mp4",
             "face": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/video/cosplay/1.png"
+          },
+          {
+            "id": "2",
+            "name": "",
+            "thumbnail": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/video/cosplay/2.gif",
+            "url": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/video/cosplay/2.mp4",
+            "face": "https://raw.githubusercontent.com/vieth05/face-swap-assets/main/face2face/video/cosplay/2.png"
           }
         ]
       },
